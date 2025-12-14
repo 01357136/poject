@@ -11,10 +11,12 @@ body {
 h1 {
     box-sizing: border-box;
     font-family: "PopRumCute";
-    text-align: left;
-    color: white;
+    /*text-align: left;*/
+    text-align: center;
+    color: #bb9351;
+    /*color: white;*/
     font-size: 40px;
-    background-color: #bb9351;;
+    /*background-color: #bb9351;*/
     padding: 15px 40px;
     letter-spacing: 4px;
     margin: 0;
@@ -23,8 +25,8 @@ h1 {
 .btn {
     font-family: "PopRumCute";
     font-size: 25px;
-    padding: 18px 40px;
-    margin-top: 20px;
+    padding: 15px 40px;
+    margin-top: 15px;
     background: linear-gradient(180deg, #ffb6c1, #ff8fab);
     color: white;
     border: none;
@@ -68,8 +70,8 @@ h1 {
 }
 
 .slide img {
-    width: 65%;
-    height: 450px;
+    width: 50%;
+    height: 400px;
     object-fit: cover;
     border-radius: 16px;
     margin: 0 auto;
